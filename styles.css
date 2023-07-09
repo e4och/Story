@@ -17,8 +17,7 @@ body{
 }
 
 .box{
-    position: absolute;    
-    margin-left: 30%;
+    
     height: 100px;
     width: 300px;
     background-color: lightcoral;
